@@ -2,6 +2,11 @@
   "name": "triplebyteinterview",
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "Github",
+    "Topics",
+    "Hacktoberfest"
+  ],
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
